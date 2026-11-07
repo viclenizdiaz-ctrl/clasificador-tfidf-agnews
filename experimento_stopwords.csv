@@ -1,0 +1,5 @@
+modelo,stop_words,f1_macro_cv
+Naive Bayes,sin filtrar,0.8849
+Naive Bayes,stop-words filtradas,0.8847
+Regresión Logística,sin filtrar,0.8765
+Regresión Logística,stop-words filtradas,0.8792

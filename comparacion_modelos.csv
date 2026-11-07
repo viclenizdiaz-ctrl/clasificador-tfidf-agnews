@@ -1,0 +1,4 @@
+modelo,f1_macro_cv
+Naive Bayes,0.8849
+Regresión Logística,0.8765
+SVM lineal,0.8755
